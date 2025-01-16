@@ -1,1 +1,2 @@
-Repo for the first homework assignment.  
+# Homework 1 - ISyE 6420 (Fall 2023)
+
